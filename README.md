@@ -1,2 +1,2 @@
 # Horizon Icons
-16px toolbar icons.
+Toolbar icons I made years ago for a project I was working on.
