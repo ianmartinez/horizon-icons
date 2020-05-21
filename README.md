@@ -1,2 +1,2 @@
-# horizon-icons
-16px toolbar icons
+# Horizon Icons
+16px toolbar icons.
